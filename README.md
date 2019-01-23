@@ -6,3 +6,6 @@ Adapted from the official implementation at: https://github.com/mravanelli/SincN
 ### Authors
 - Iqra Shazhad iqra@wearepopgun.com
 - Angus Turner angusturner@wearepopgun.com
+
+If you use this code or part of it, please cite the original paper authors!
+Mirco Ravanelli, Yoshua Bengio, “Speaker Recognition from raw waveform with SincNet” Arxiv
