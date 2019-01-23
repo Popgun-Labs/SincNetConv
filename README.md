@@ -5,7 +5,7 @@ A PyTorch 1.0 implementation of the bandpass convolutions described in https://a
 - Intepretable filters
 - Better performance
 
-Adapted from the official implementation at: https://github.com/mravanelli/SincNet/
+Adapted from the official implementation at: https://github.com/mravanelli/SincNet/.
 Compared to the original implementation, the filter bank construction has been parallelised. Additionally, padding has been added to preserve the length / time dimension of the input audio.
 
 ### Authors
