@@ -1,5 +1,5 @@
 ## SincConv
-A PyTorch 1.0 implementation of the bandpass convolutions described in https://arxiv.org/abs/1811.09725. Compared with normal convolution, this has the following practical benefits for audio-domain models such as speaker or phoneme recognition:
+A PyTorch 1.0 implementation of the bandpass convolutions described in [Interpretable Convolutional Filters with SincNet](https://arxiv.org/abs/1811.09725). Compared with normal convolution, this has the following practical benefits for audio-domain models such as speaker or phoneme recognition:
 - Fewer parameters
 - Faster convergence
 - Intepretable filters
